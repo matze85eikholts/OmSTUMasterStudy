@@ -1,0 +1,1 @@
+This folder will be used for peroting about university study of creating the programming code on an example of calculator with mathematic operations for 4 types of numbers, written in Java OOP language. 
